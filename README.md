@@ -50,11 +50,11 @@ Ao criar uma VM, ajuste:
 - **Usa:** Conjuntos de Escala de Máquinas Virtuais (**VMSS**).  
 - **Indicado para:** Aplicações distribuídas e balanceamento de carga.  
 
-**Como configurar VMSS:**  
+**Como configurar VMSS:**
+![VMSS Autoscale](/images/vmss.png)
+
 1. Crie um **Virtual Machine Scale Set** no portal Azure.  
 2. Defina regras de *autoscale* baseadas em métricas (CPU, memória).  
-
-![VMSS Autoscale](/images/vmss.png)  
 
 ---
 
@@ -73,8 +73,6 @@ Ao criar uma VM, ajuste:
 - **Ferramentas:**  
   - **Azure Monitor** (métricas de desempenho).  
   - **Alertas** (notificações para uso alto de CPU/RAM).  
-
-![Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/vm/media/monitor-vm-azure/azure-monitor-vm-view.png)  
 
 ---
 
