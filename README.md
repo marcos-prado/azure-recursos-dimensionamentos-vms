@@ -54,7 +54,7 @@ Ao criar uma VM, ajuste:
 1. Crie um **Virtual Machine Scale Set** no portal Azure.  
 2. Defina regras de *autoscale* baseadas em métricas (CPU, memória).  
 
-![VMSS Autoscale](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/media/virtual-machine-scale-sets-autoscale-overview/autoscale-overview.png)  
+![VMSS Autoscale](/images/vmss.png)  
 
 ---
 
