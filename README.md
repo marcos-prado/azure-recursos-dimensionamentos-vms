@@ -47,11 +47,11 @@ Ao criar uma VM, ajuste:
 3. Escolha um novo tamanho e reinicie.  
 
 ### ↔️ Escalamento Horizontal (Adicionar Mais VMs)  
+![VMSS Autoscale](/images/vmss.png)
 - **Usa:** Conjuntos de Escala de Máquinas Virtuais (**VMSS**).  
 - **Indicado para:** Aplicações distribuídas e balanceamento de carga.  
 
 **Como configurar VMSS:**
-![VMSS Autoscale](/images/vmss.png)
 
 1. Crie um **Virtual Machine Scale Set** no portal Azure.  
 2. Defina regras de *autoscale* baseadas em métricas (CPU, memória).  
