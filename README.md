@@ -1,6 +1,6 @@
 # Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure  
 
-![Azure Virtual Machines](https://docs.microsoft.com/en-us/azure/virtual-machines/images/vm-sizes.png)  
+![Azure Virtual Machines](/images/virtual-machines.png)  
 
 ## Introdução  
 Configurar adequadamente os recursos e dimensionar máquinas virtuais (VMs) no Microsoft Azure é essencial para garantir desempenho, disponibilidade e custo-eficiência. Este guia aborda os principais conceitos e práticas recomendadas para dimensionar VMs na Azure.  
